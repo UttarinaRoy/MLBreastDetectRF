@@ -1,2 +1,2 @@
 # MLBreastDetectRF
-MLBreastDetectRF: Harnessing the power of Random Forest Classifier for early breast cancer detection. Explore how machine learning aids in improving diagnosis, enhancing survival rates, and transforming healthcare outcomes globally.
+MLBreastDetectRF: Harnessing the power of Random Forest Classifier for early breast cancer detection. Explore how machine learning aids in improving diagnosis, enhancing survival rates, and transforming healthcare outcomes globally.This projects main focus is to make a model that can detect cancer in early stage and without any false results and to do this project i have used random forest classifier 
